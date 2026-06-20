@@ -13,14 +13,10 @@ import Navbar from "./components/Navbar";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 function App() {
-
   return (
-
     <BrowserRouter>
 
       <Routes>
-
-        {/* Authentication Routes */}
 
         <Route
           path="/"
@@ -37,37 +33,33 @@ function App() {
           element={<Register />}
         />
 
-        {/* Protected Dashboard Route */}
-
         <Route
           path="/dashboard"
           element={
             <ProtectedRoute>
-
               <>
                 <Navbar />
                 <Dashboard />
               </>
-
             </ProtectedRoute>
           }
         />
 
-        {/* Protected Add Task Route */}
-
         <Route
-  path="/dashboard"
-  element={
-    <ProtectedRoute>
-      <Dashboard />
-    </ProtectedRoute>
-  }
-/>
+          path="/add"
+          element={
+            <ProtectedRoute>
+              <>
+                <Navbar />
+                <AddTask />
+              </>
+            </ProtectedRoute>
+          }
+        />
 
       </Routes>
 
     </BrowserRouter>
-
   );
 }
 
