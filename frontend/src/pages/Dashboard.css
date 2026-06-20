@@ -1,0 +1,96 @@
+.dashboard-container {
+  min-height: 100vh;
+
+  background: linear-gradient(
+      rgba(10, 20, 40, 0.7),
+      rgba(10, 20, 40, 0.7)
+    ),
+    url("../assets/dashboard-bg.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  padding: 40px;
+}
+
+.dashboard-title {
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.stat-card {
+  background: rgba(255,255,255,0.1);
+
+  backdrop-filter: blur(12px);
+
+  border-radius: 20px;
+
+  padding: 30px;
+
+  text-align: center;
+
+  color: white;
+
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+.stat-card h2 {
+  font-size: 40px;
+}
+
+.custom-input {
+
+  background: rgba(255,255,255,0.15) !important;
+
+  color: white !important;
+
+  border: none !important;
+
+  backdrop-filter: blur(10px);
+
+  padding: 15px !important;
+
+  border-radius: 10px !important;
+}
+
+.custom-input::placeholder {
+  color: #ddd;
+}
+
+.empty-text {
+
+  color: white;
+  text-align: center;
+  margin-top: 60px;
+
+}
+
+.pagination-box {
+
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+.pagination-box button {
+
+  border: none;
+
+  padding: 10px 25px;
+
+  border-radius: 10px;
+
+  margin: 10px;
+
+  background: #0d6efd;
+
+  color: white;
+}
+
+.pagination-box span {
+  color: white;
+  font-size: 18px;
+}

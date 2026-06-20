@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Complete Java OOP Concepts",
+    "description": "Study classes, inheritance, polymorphism and interfaces in Java.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:00:00.000Z",
+    "updatedAt": "2026-06-20T10:00:00.000Z"
+  },
+  {
+    "title": "Solve 5 LeetCode Problems Daily",
+    "description": "Practice DSA problems every day to improve coding skills.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-06-25T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:05:00.000Z",
+    "updatedAt": "2026-06-20T10:05:00.000Z"
+  },
+  {
+    "title": "Build React Portfolio Website",
+    "description": "Create a personal portfolio website using React and Bootstrap.",
+    "status": "Pending",
+    "priority": "Medium",
+    "dueDate": "2026-07-05T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:10:00.000Z",
+    "updatedAt": "2026-06-20T10:10:00.000Z"
+  },
+  {
+    "title": "Learn Spring Boot",
+    "description": "Understand REST APIs, Controllers, Services and JPA.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-07-10T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:15:00.000Z",
+    "updatedAt": "2026-06-20T10:15:00.000Z"
+  },
+  {
+    "title": "Complete Mini Project Documentation",
+    "description": "Prepare project report, screenshots and architecture diagrams.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-06-28T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:20:00.000Z",
+    "updatedAt": "2026-06-20T10:20:00.000Z"
+  },
+  {
+    "title": "Participate in Coding Contest",
+    "description": "Take part in a weekly coding contest on LeetCode, HackerRank or CodeChef.",
+    "status": "Pending",
+    "priority": "Medium",
+    "dueDate": "2026-07-02T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:25:00.000Z",
+    "updatedAt": "2026-06-20T10:25:00.000Z"
+  },
+  {
+    "title": "Prepare for Technical Interview",
+    "description": "Revise Java, DBMS, Operating Systems, Computer Networks and DSA.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-07-08T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:30:00.000Z",
+    "updatedAt": "2026-06-20T10:30:00.000Z"
+  },
+  {
+    "title": "Learn MongoDB Aggregation",
+    "description": "Practice aggregation pipelines and advanced MongoDB queries.",
+    "status": "Pending",
+    "priority": "Medium",
+    "dueDate": "2026-07-12T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:35:00.000Z",
+    "updatedAt": "2026-06-20T10:35:00.000Z"
+  },
+  {
+    "title": "Complete NPTEL Assignment",
+    "description": "Finish weekly assignment and submit before the deadline.",
+    "status": "Pending",
+    "priority": "Medium",
+    "dueDate": "2026-06-27T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:40:00.000Z",
+    "updatedAt": "2026-06-20T10:40:00.000Z"
+  },
+  {
+    "title": "Build Full Stack MERN Project",
+    "description": "Develop a complete MERN stack application with authentication and CRUD.",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-07-15T00:00:00.000Z",
+    "createdAt": "2026-06-20T10:45:00.000Z",
+    "updatedAt": "2026-06-20T10:45:00.000Z"
+  }
+]
